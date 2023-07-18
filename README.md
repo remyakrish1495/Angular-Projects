@@ -1,2 +1,2 @@
 # Mini-Angular-Projects
-Mini projects creating using Angular
+Mini projects created using Angular
